@@ -7,16 +7,30 @@ Visualizing Sorting and Searching algorithms made easy.
 
 1. [Python](https://www.python.org) Installed.
 
+2. Just one module named 'colour' to be installed
+
+- Open up Terminal/ Command Prompt and type in:
+
+Windows Users
+```bash
+pip install colour
+```
+
+MacOS/ Linux Users
+```bash
+pip3 install colour
+```
+
 ## Usage
 
-1. Inside the Repository's directory, Open Terminal/ Command Prompt and type in:
+Inside the Repository's directory, Open Terminal/ Command Prompt and type in:
 
--> Windows Users
+- Windows Users
 ```bash
 python visualizer.py
 ```
 
--> MacOS/ Linux Users
+- MacOS/ Linux Users
 ```bash
 python3 visualizer.py
 ```
